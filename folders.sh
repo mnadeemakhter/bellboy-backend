@@ -1,0 +1,1 @@
+mkdir -p public/uploads/{voiceNotes,bellboy}

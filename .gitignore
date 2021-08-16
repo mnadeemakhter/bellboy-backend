@@ -1,0 +1,8 @@
+node_modules
+public
+/requirements
+.env
+usmanR.js
+usman.js
+package-lock.json
+location.js
